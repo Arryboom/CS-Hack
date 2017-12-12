@@ -15,7 +15,7 @@ Simple and naive cheating in CS 1.6. Collaborator: @VicaYang @IrisYGL.
 
 ## Credits
 * [VicaYang](https://github.com/VicaYang)
-* [IrusYGL](https://github.com/IrisYGL)
+* [IrisYGL](https://github.com/IrisYGL)
 
 ## Demo
 [Demo](https://youtu.be/OXbHltHgf-U)
